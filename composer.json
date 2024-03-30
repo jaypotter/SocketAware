@@ -7,6 +7,11 @@
         "potter/socket-aware-interface": "dev-main",
         "potter/socket-aware-trait": "dev-main"
     },
+    "suggest": {
+        "potter/aware": "dev-main",
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
