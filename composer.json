@@ -8,6 +8,7 @@
         "potter/socket-aware-trait": "dev-main"
     },
     "suggest": {
+        "potter/socket": "dev-main",
         "potter/aware": "dev-main",
         "potter/components": "dev-main",
         "potter/framework": "dev-main"
